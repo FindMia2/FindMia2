@@ -1,16 +1,21 @@
-### Hi there 👋
+<div align='center'> <img src="https://i.pinimg.com/564x/60/f0/cb/60f0cbe9c0b58e012c5171f509967619.jpg"/></div>
 
-<!--
-**FindMia2/FindMia2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Estatísticas</h3>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=FindMia2&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117"/></td>
+    <!-- Github Top Languages -->
+      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=FindMia2&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"/></td>
+      <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=FindMia2&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/></td>
+    <!-- Github Top Languages -->
+    
+</td>
+  </tr>
+</table>
+</div>
